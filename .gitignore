@@ -7,7 +7,8 @@ python/SiralamaAlgoritmalari/__pycache__/
 python/.idea/
 
 # Object Pascal
-object-pascal/*.o
-object-pascal/*.ppu
+object-pascal/SiralamaAlgoritmalari.o
+object-pascal/SiralamaAlgoritmalari.ppu
 object-pascal/SiralamaAlgoritmalari/Main
+object-pascal/SiralamaAlgoritmalari/Main.o
 object-pascal/SiralamaAlgoritmalari/Main.pas
