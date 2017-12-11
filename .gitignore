@@ -1,0 +1,13 @@
+# C++
+build-c-plus-plus-Desktop_Qt_5_9_3_GCC_64bit-Debug/
+
+# Python
+python/main.py
+python/SiralamaAlgoritmalari/__pycache__/
+python/.idea/
+
+# Object Pascal
+object-pascal/*.o
+object-pascal/*.ppu
+object-pascal/SiralamaAlgoritmalari/Main
+object-pascal/SiralamaAlgoritmalari/Main.pas
